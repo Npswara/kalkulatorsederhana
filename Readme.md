@@ -1,0 +1,1 @@
+Hanya sebuah kalkulor sederhana
