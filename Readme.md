@@ -1,1 +1,1 @@
-Hanya sebuah kalkulor sederhana
+Hanya sebuah kalkulator sederhana
