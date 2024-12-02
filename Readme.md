@@ -5,4 +5,7 @@
 ### Instalasi dan cara pemakaian
 - Clone Repositori ini
 - run code.c
+---
+
+© 2024 Npswara - Semua hak dilindungi MIT.
 
